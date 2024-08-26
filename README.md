@@ -3,7 +3,7 @@ You like robotics? You like Japanese (language)?
 Help spread the spirit of FRC (or just FIRST in general)!
 
 ## Description
-A keychain that says "gracious professionalism" in 
+A keychain that says "gracious professionalism" in Japanese katakana
 
 ## Installation
 1. Just download the file :) (look up a tutorial on spicing stl files though if you don't know how to 3D print)
