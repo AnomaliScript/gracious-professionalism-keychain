@@ -1,5 +1,5 @@
-# Project Title
-Gracious Professionalism Keychain
+# Gracious Professionalism Keychain
+You like robotics? You like Japanese (language)?
 Help spread the spirit of FRC (or just FIRST in general)!
 
 ## Description
