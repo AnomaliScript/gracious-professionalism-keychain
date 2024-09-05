@@ -15,6 +15,9 @@ Reputable ones are include Ultimaker Cura, Prusa Slicer, etc.
 
 ## Usage
 It's a keychain; put it on your backpack, lanyard, necklace, car keys (it might bee to big though) or as a Christmas ornament! (if you actually do this that'd be so funny)
+## Sketchfab view/rendering
+https://sketchfab.com/3d-models/part-studio-1-full-keychain-f5402a05b531499c9fe7d92bb7867fb5
+![Screenshot 2024-09-04 204008](https://github.com/user-attachments/assets/8399cae9-3ef0-4714-9170-62cdb01506ff)
 
 ## Features
 It has a hole for the rope of chain or whatever you use to keep the keychain connected
@@ -26,7 +29,6 @@ Feel free to send me another version of the print if you make one that's better 
 
 ## License
 This project is licensed under the MIT License.
-(I think so, because this is my first time typing a license 😬)
 
 ## Contact
 Brandon Kim - anomaliscript@gmail.com (I'm too young to have a LinkedIn acc yet 😔)
